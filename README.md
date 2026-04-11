@@ -21,6 +21,9 @@
 
 【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
 
+### 2023-04-11 更新
+> 【[浙江](./md/23.md)】   浙江增加6个杭州台台标
+<img src="https://raw.githubusercontent.com/Justingwo/TVlogo/refs/heads/main/img/hangzhou1.png"><img src="https://raw.githubusercontent.com/Justingwo/TVlogo/refs/heads/main/img/hangzhou2.png"><img src="https://raw.githubusercontent.com/Justingwo/TVlogo/refs/heads/main/img/hangzhou3.png"><img src="https://raw.githubusercontent.com/Justingwo/TVlogo/refs/heads/main/img/hangzhou4.png"><img src="https://raw.githubusercontent.com/Justingwo/TVlogo/refs/heads/main/img/hangzhou5.png"><img src="https://raw.githubusercontent.com/Justingwo/TVlogo/refs/heads/main/img/hangzhou6.png"> 
 ### 2023-03-26 更新
 > 【[广东](./md/26.md)】  【[北京](./md/33.md)】  【[湖南](./md/29.md)】  大幅度调整，建议重新下载保存
 
